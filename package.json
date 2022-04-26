@@ -1,0 +1,8 @@
+{
+  "name": "new-project",
+  "author": "TurboTemp",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
